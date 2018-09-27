@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "75ff4554-62fb-4898-badc-2475c816fc8c",
+            "Value": {
+                "id": "19ca19a3-02ad-48f9-b1cb-d0b38b39cbba",
+                "resourcePath": "objects\\obj_crosshair\\obj_crosshair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81aec232-32ac-4c4f-8196-2bc322c05df7",
             "Value": {
                 "id": "2fad8d14-cde6-4178-82fe-4b4bf478dd1b",
@@ -151,11 +159,27 @@
             }
         },
         {
+            "Key": "952407ef-9fb8-40ef-a8ac-3cde13624f03",
+            "Value": {
+                "id": "f1b526b3-ea8a-4c93-9042-71c7e1e38aad",
+                "resourcePath": "objects\\obj_hole\\obj_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
                 "resourcePath": "rooms\\br_room\\br_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a51c54a6-47c3-4a02-b3b8-bc41fe4c6f3f",
+            "Value": {
+                "id": "1b483c12-3d8a-45a7-aa06-4d5fcee3a6af",
+                "resourcePath": "objects\\obj_duck\\obj_duck.yy",
+                "resourceType": "GMObject"
             }
         },
         {
